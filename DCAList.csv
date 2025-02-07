@@ -1,0 +1,1361 @@
+CODE,Title_Name
+10000,Miscellaneous Insects and Allies
+10001,Thrips
+10002,Pine Tip Moths
+10003,Wasp
+10004,Chinese Rose Beetle
+10005,Rose Beetle
+10006,Coconut Hispid Beetle
+10007,Clerid Beetle
+10008,Weevil
+10009,Green Rose Chafer
+10010,Allegheny Mound Ant
+10011,Ants
+10012,Stick Insect
+10013,<Hulodes Caranea>
+10014,Conifer Swift Moth
+10015,Caroline Shortnosed Weevil
+10016,Coconut Rhinoceros Beetle
+10017,Bagworm Moth
+10018,Coconut Palm Weevil
+10019,Scarab
+10020,Ash Whitefly
+10021,Conifer Seedling Weevil
+10022,Pyralid Moth
+10023,Horntails
+10024,Eurytomid Wasps
+10025,Blister Beetle
+10600,Predatory Insects and Allies
+10601,Clerid Beetle
+10602,Lacewings
+10603,Blackbellied Clerid
+10604,Redbellied Clerid
+10605,Red Wood Ant
+10606,Western Yellowjacket
+10800,"Other Miscellaneous Insect or Ally, Known, (Code Pending)"
+10801,Other Predatory Insect or Ally (Known)
+10900,Unknown Miscellaneous Insect Or Ally
+10901,Unknown Predator Insect or Ally
+11000,Bark Beetles
+11001,Roundheaded Pine Beetle
+11002,Western Pine Beetle
+11003,Southern Pine Beetle
+11004,Jeffrey Pine Beetle
+11005,Lodgepole Pine Beetle
+11006,Mountain Pine Beetle
+11007,Douglas-fir Beetle
+11008,Boreal Spruce Beetle
+11009,Spruce Beetle
+11010,Eastern Larch Beetle
+11011,Black Turpentine Beetle
+11012,Red Turpentine Beetle
+11013,Goldhaired Spruce Engraver
+11014,<Dryocoetes Autographus>
+11015,Western Balsam Bark Beetle
+11016,<Dryocoetes Sechelti>
+11017,Ash Bark Beetles
+11018,Native Elm Bark Beetle
+11019,Pinyon Ips
+11020,Small Southern Pine Engraver
+11021,Sixspined Ips
+11022,Emarginate Ips
+11023,Eastern Fivespined Ips
+11024,<Orthotomicus Latidens>
+11025,Arizona Fivespined Ips
+11026,False Pine Engraver
+11027,California Fivespined Ips
+11028,Northern Spruce Engraver
+11029,Pine Engraver
+11030,Ips Engraver Beetles
+11031,Lesser Spruce Engraver
+11032,Western Ash Bark Beetle
+11033,Oregon Ash Bark Beetle
+11034,<Orthotomicus Caelatus>
+11035,Cedar & Cypress Bark Beetles
+11036,Western Cedar Bark Beetle
+11037,Tip Beetles
+11038,<Pityophthorus Pseudotsugae>
+11039,Twig Beetles
+11040,Foureyed Spruce Bark Beetle
+11041,Fir Root Bark Beetle
+11042,<Pseudohylesinus Dispar>
+11043,Douglas-fir Pole Beetle
+11044,Silver Fir Beetle
+11045,Smaller European Elm Bark Beetle
+11046,Spruce Limb Engraver
+11047,Hickory Bark Beetle
+11048,True Fir Bark Beetles
+11049,Douglas-fir Engraver
+11050,Fir Engraver
+11051,Striped Ambrosia Beetle
+11052,Sitka Spruce Engraver
+11053,Four-Eyed Bark Beetle
+11054,Hemlock Beetle
+11055,Southern Spruce Engraver
+11056,Smaller Mexican Pine Beetle
+11057,Banded Elm Bark Beetle
+11058,Redbay Ambrosia Beetle
+11059,Southern Cypress Beetle
+11060,Mediterranean Pine Engraver
+11061,European Bark Beetle (H. Opacus)
+11062,Redhaired Pine Bark Beetle
+11063,Blue Spruce Engraver
+11064,European Spruce Bark Beetle
+11065,European Silver Fir Beetle
+11066,Walnut Twig Beetle
+11067,Aspen Bark Beetle (Trypophloeus)
+11068,Aspen Bark Beetle (Procryphalus)
+11069,Peach Bark Beetle
+11070,Mediterranean Oak Borer
+11071,Southwestern Pine Beetle
+11800,"Other Bark Beetle, Known (Code Pending)"
+11900,Unknown Bark Beetle
+11999,Western Bark Beetle Complex
+12000,Defoliators
+12001,Casebearer
+12002,Leaftier
+12003,Loopers
+12004,Needleminers
+12005,Sawflies
+12006,Skeletonizer
+12007,Larger Elm Leaf Beetle
+12008,Spanworm
+12009,Webworm
+12010,Pine False Webworm
+12011,Western Blackheaded Budworm
+12012,Eastern Blackheaded Budworm
+12013,Whitefly
+12014,Fall Cankerworm
+12015,Alder Flea Beetle
+12016,Mountain Mahogany Looper
+12017,Birch Leaffolder
+12018,Oak Worms
+12019,Orangestriped Oakworm
+12020,Western Larch Sawfly
+12021,Fruittree Leafroller
+12022,Uglynest Caterpillar
+12023,Boxelder Defoliator
+12024,Oak Leafroller
+12025,Birch Sawfly
+12026,Arborvitae Leafminer
+12027,Coconut Scale
+12028,Texas Leafcutting Ant
+12029,Oak Skeletonizer
+12030,Pear Sawfly
+12031,Scarlet Oak Sawfly
+12032,Elm Calligrapha
+12033,Boxelder Leafroller
+12034,Maple Petiole Borer
+12035,Spruce Webspinning Sawfly
+12036,Two-year-cycle Budworm
+12037,Large Aspen Tortrix
+12038,Spruce Budworm
+12039,Western Pine Budworm
+12040,Western Spruce Budworm
+12041,Jack Pine Budworm
+12042,Modoc Budworm
+12043,Aspen Leaf Beetle
+12044,Cottonwood Leaf Beetle
+12045,Leafhopper
+12046,Poplar Tentmaker
+12047,Larch Casebearer
+12048,Birch Casebearer
+12049,Lodgepole Needleminer
+12050,Gelechiid Moths/Needleminers
+12051,Black Hills Pandora Moth
+12052,Pandora Moth
+12053,Sycamore Lace Bug
+12054,Lace Bugs
+12055,Oak Leaftier
+12056,Dusky Birch Sawfly
+12057,Walnut Caterpillar
+12058,Yellownecked Caterpillar
+12059,Walkingstick
+12060,Spruce Coneworm
+12061,Introduced Pine Sawfly
+12062,Greenstriped Mapleworm
+12063,Spruce Needleminer
+12064,Elm Spanworm
+12065,Maple Trumpet Skeletonizer
+12066,White Fir Needleminer
+12067,Linden Looper
+12068,Browntail Moth
+12069,Pine Needleminer
+12070,Birch Leafminer
+12071,Elm Leafminer
+12072,Geometrid Moth
+12073,Leafblotch Miner
+12074,Spotted Tussock Moth
+12075,Pale Tussock Moth
+12076,Hesperiid Moth
+12077,Brown Day Moth
+12078,Buck Moth
+12079,Saddled Prominent
+12080,Variable Oakleaf Caterpillar
+12081,Cherry Scallop Shell Moth
+12082,Fall Webworm
+12083,Hemlock Looper
+12084,Oak Looper
+12085,Tent Caterpillar Moth
+12086,Satin Moth
+12087,Willow Leafblotch Miner
+12088,Aspen Blotchminer
+12089,Spongy Moth
+12090,Cottonwood Leafminers
+12091,Dogwood Sawfly
+12092,Rose Chafer
+12093,Eastern Tent Caterpillar
+12094,Western Tent Caterpillar
+12095,Pacific Tent Caterpillar
+12096,Forest Tent Caterpillar
+12097,Southwestern Tent Caterpillar
+12098,Leafcutting Bees
+12099,Blister Beetle
+12100,Early Birch Leaf Edgeminer
+12101,Juniper Sawfly
+12102,Common Sawflies
+12103,Balsam Fir Sawfly
+12104,Lodgepole Sawfly
+12105,Blackheaded Pine Sawfly
+12106,Pine Infesting Sawflies
+12107,Redheaded Pine Sawfly
+12109,Ponderosa Pine Sawfly
+12110,White Pine Sawfly
+12111,Jack Pine Sawfly
+12112,Virginia Pine Sawfly
+12113,European Pine Sawfly
+12114,Loblolly Pine Sawfly
+12115,Hemlock Sawfly
+12116,Pine Butterfly
+12117,False Hemlock Looper
+12118,California Tortoiseshell
+12119,Locust Leafminer
+12120,Bruce Spanworm
+12121,Rusty Tussock Moth
+12122,Whitemarked Tussock Moth
+12123,Douglas-fir Tussock Moth
+12124,Western Tussock Moth
+12125,Spring Cankerworm
+12126,Black Citrus Swallowtail Butterfly
+12127,Maple Leafcutter
+12128,Pine Tussock Moth
+12129,Poinciana Looper
+12130,Half-Wing Geometer
+12131,Phoberia Moth
+12132,California Oakworm
+12133,European Snout Beetle
+12134,Citrus Leafminer
+12135,Aspen Leafminer
+12136,Yellowheaded Spruce Sawfly
+12137,Tenlined June Beetle
+12138,Japanese Beetle
+12139,Larch Sawfly
+12140,Mountain-Ash Sawfly
+12141,Elm Leaf Beetle
+12142,Spear-Marked Black Moth
+12143,Giant Silkworm Moth
+12144,Redhumped Caterpillar
+12145,Redbanded Thrips
+12146,Green Larch Looper
+12147,Maple Leafroller 
+12148,Redhumped Oakworm
+12149,Orangehumped Mapleworm
+12150,Spruce Needleminer
+12151,Maple Webworm
+12152,Pine Webworm
+12153,Introduced Basswood Thrips
+12154,Bagworm
+12155,Leafroller/Seed Moth
+12156,Willow Defoliation
+12157,Euonymus Caterpillar
+12158,Spruce Bud Moth
+12159,Larch Bud Moth
+12160,Pine Needle Sheathminer
+12161,Cypress Looper
+12162,Chrysomela Leaf Beetle
+12163,Pine Colaspis
+12164,Saddleback Looper
+12165,Birch Leafroller
+12166,New Mexico Fir Looper
+12167,Striped Alder Sawfly
+12168,Greenstriped Looper
+12169,Willow Leaf Blotchminer
+12170,Pine Sawfly
+12171,Pinyon Sawfly
+12172,<Neodiprion Gillettei>
+12173,<Neodiprion Ventralis>
+12174,Pine Looper
+12175,<Zadiprion Rohweri>
+12176,Bull Pine Sawfly
+12177,Douglas-fir Budmoth
+12178,Western Oak Looper
+12179,Phantom Hemlock Looper
+12180,Tent Caterpillars
+12181,Abbot's Sawfly
+12182,Slash Pine Sawfly
+12183,Sand Pine Sawfly
+12184,Melalueca Leaf Weevil
+12185,Cypress Leaf Beetle
+12186,<Nepytia Janetae>
+12187,Oak Shothole Leafminer
+12188,Elm Sawfly
+12189,June Beetle
+12190,Hickory Tussock Moth
+12191,Pin Oak Sawfly
+12192,Palmerworm
+12193,Pitch Pine Looper
+12194,Red Pine Sawfly
+12195,Pine Tube Moth
+12196,Baldcypress Leafroller
+12197,Winter Moth
+12198,Basswood Thrips
+12199,Noctuid Moth
+12200,Ash Leafroller
+12201,Pacific Silver Fir Budmoth
+12202,Red Pine Needle Midge
+12203,Western Hemlock Looper
+12204,Lodgepole Pine Sawfly
+12205,Silverspotted Tiger Moth
+12206,Green Alder Sawfly
+12207,Conifer Sawflies
+12208,Ambermarked Birch Leafminer
+12209,Cycad Blue Butterfly
+12210,European Elm Flea Weevil
+12211,Eucalyptus Snout Beetle
+12212,European Pine Needle Midge
+12213,European Spruce Needleminer
+12214,European Web-spinning Larch Sawfly
+12215,Imported Willow Leaf Beetle
+12216,Mimosa Webworm
+12217,Poplar Sawfly
+12218,Red Gum Lerp Psyllid
+12219,European Spruce Sawfly
+12220,Mountain-mahogany Moth
+12221,Myoporum Thrips
+12222,Koa Looper Moth
+12223,Bare-patched Oak Leafroller
+12224,Chinese Rose Beetle
+12225,Rose Beetle
+12226,Coconut Hispid Beetle
+12227,Green Rose Chafer
+12228,Stick Insect
+12229,<Hulodes Caranea>
+12230,Bagworm Moth
+12231,Palau Coconut Beetle
+12232,Madrone Thrips
+12233,Thrips
+12234,Fall Hardwood Defoliator Group
+12235,Aroga Moth
+12236,Aspen Twoleaf Tier
+12237,Early Aspen Leafroller
+12238,Cottonwood Leafblotch Miner 
+12239,Tamarisk Leaf Beetles
+12240,Mountain Girdle
+12241,Box-Elder Tussock Moth 
+12242,Spruce Budworm (C. orae)
+12243,Battered Sallow
+12244,Western False Hemlock Looper
+12245,Speckled Green Fruitworm
+12246,Late Birch Leaf Edgeminer
+12247,Autumnal Moth
+12248,Alder Woolly Sawfly
+12249,Leaf Beetles
+12250,Leafminers
+12251,Basswood Leafminer
+12252,Phyllocolpa Sawfly
+12253,Zeugophora Leaf Beetle
+12254,Phyllonorycter Leafblotch Miner
+12255,Eriocraniid Moths
+12256,Phyllocnistis Leafminer
+12257,Leafrollers
+12258,Nematinae Sawfly
+12259,Mourning Cloak Butterfly
+12260,Elm Zigzag Sawfly
+12300,Budworm
+12800,"Other Defoliator, Known (Code Pending)"
+12900,Unknown Defoliator
+13000,Other Chewing Insects and Allies
+13001,Grasshopper
+13002,Shorthorn Grasshoppers
+13003,Black Cutworm
+13004,Palau Coconut Beetle
+13005,Clearwinged Grasshopper
+13006,Cicadas
+13007,Eurytomid Wasps
+13008,<Euxoa Excellens>
+13009,Whitefringed Beetles
+13010,Pales Weevil
+13011,Vegetable Weevil
+13012,Periodical Cicada
+13013,Migratory Grasshopper
+13014,Valley Grasshopper
+13015,Strawberry Root Weevil
+13016,Black Vine Weevil
+13017,Pandanus Beetle
+13018,Spaeth Pandanus
+13019,Agamemnon Butterfly
+13020,Northern Pitch Twig Moth
+13021,Ponderosa Pine Tip Moth
+13022,Pine Needle Weevil
+13023,Coconut Longhorned Grasshopper
+13024,Clover Root Curculio
+13025,Madrone Thrips
+13026,Ash Plant Bug
+13027,Shorthorned Grasshopper
+13028,Pitch-Eating Weevil
+13029,Eastern Pine Weevil
+13030,Adana Tip Moth
+13031,Asiatic Oak Weevil
+13032,Weevil
+13033,Caroline Shortnosed Weevil
+13034,Conifer Seedling Weevil
+13800,"Other Chewing Insect or Ally, Known (Code Pending)"
+13900,Unknown Chewing Insect or Ally
+14000,Sap Feeders
+14001,Scale Insects
+14002,Western Larch Woolly Aphid
+14003,Balsam Woolly Adelgid
+14004,Hemlock Woolly Adelgid
+14005,Spiraling Whitefly
+14006,Aphid
+14007,Pine Spittlebug
+14008,Western Pine Spittlebug
+14009,Saratoga Spittlebug
+14010,Spittlebug
+14011,Wax Scale
+14012,Pine Needle Scale
+14014,Giant Conifer Aphids
+14015,White Pine Aphid
+14016,Beech Scale
+14017,Spruce Aphid
+14018,Woolly Apple Aphid
+14019,Striped Mealybug
+14020,Elongate Hemlock Scale
+14021,Coconut Red Scale
+14022,Pine Thrips
+14023,Leucaena Psyllid
+14024,Honeysuckle Aphids
+14025,Egyptian Fluted Scale
+14026,Lecanium Scale
+14027,Common Falsepit Scale
+14028,Oystershell Scale
+14029,Pinyon Needle Scale
+14030,Ponderosa Pine Twig Scale
+14031,Pine Twig Scale
+14032,Ponderosa Pine Scale
+14033,Red Pine Scale
+14034,Prescott Scale
+14035,Treehoopers
+14036,Hibiscus Psyllid
+14037,Balsam Twig Aphid
+14038,Hibiscus Mealybug
+14039,Black Pineleaf Scale
+14040,Spruce Spider Mite
+14041,Twig Girdler
+14042,Woolly Alder Aphid
+14043,Maple Aphids
+14044,Spruce Bud Scale
+14045,Red Pine Adelgid
+14046,Pine Leaf Adelgid
+14047,White Pine Adelgid
+14048,Pine Bark Adelgid
+14049,Smoky-Winged Ash Aphid
+14050,Mealybug
+14051,Cottony Maple Scale
+14052,Fir Mealybug
+14053,Douglas-fir Mealybug
+14054,Spruce Mealybug
+14055,Hemispherical Scale
+14056,Woolly Pine Needle Aphid
+14057,Steatococcus Scale
+14058,Pear Thrips
+14059,Mulberry Whitefly
+14060,Tuliptree Scale
+14061,Pine Tortoise Scale
+14062,Citrus Snow Scale
+14063,Birch Aphid
+14064,Kermes Scale
+14065,Casuarina Spittlebug
+14066,Giant Bark Aphid
+14067,Woolly Pine Scale
+14068,European Elm Scale
+14069,Elm Scurfy Scale
+14070,Magnolia Scale
+14071,Beech Blight Aphid
+14072,Beech Woolly Aphid
+14073,Asian Cycad Scale
+14074,European Fruit Lecanium Scale
+14075,Lobate Lac Scale
+14076,Calico Scale
+14077,California Red Scale
+14078,Circular Hemlock Scale
+14079,Cottony Cushion Scale
+14080,Eucalyptus Psyllid
+14081,Golden Oak Scale
+14082,Juniper Scale
+14083,Pink Hibiscus Mealybug
+14084,San Jose Scale
+14085,Oak Pit Scale A. Minus
+14086,Bluegum Psyllid
+14087,Linden Aphid
+14088,Norway Maple Aphid
+14089,Camphor Scale
+14090,Spotted Lanternfly
+14091,Ash Whitefly
+14092,Cicadas
+14093,Ash Plant Bug
+14094,Coconut Scale
+14095,Leafhopper
+14096,California Tortoiseshell
+14097,Tarnished Plant Bug
+14098,Adelgids
+14099,Harrisia Cactus Mealybug
+14100,Crepemyrtle Bark Scale
+14800,"Other Sap Feeder, Known (Code Pending)"
+14900,Unknown Sap Feeder
+15000,Wood Borers
+15001,Shoot Borers
+15002,Termites
+15003,Ponderosa Pine Bark Borer
+15004,Bronze Birch Borer
+15005,Twolined Chestnut Borer
+15006,Bronze Poplar Borer
+15007,Carpenter Bees
+15008,Flatheaded Borer
+15009,Golden Buprestid
+15010,Carpenter Ants
+15011,Gouty Pitch Midge
+15012,Shootboring Sawflies
+15013,Roundheaded Borer
+15014,Flatheaded Appletree Borer
+15015,Cranberry Girdler
+15016,Columbian Timber Beetle
+15017,Pitted Ambrosia Beetle
+15018,Carpenterworm Moths
+15019,Poplar-And-Willow Borer
+15020,Pine Reproduction Weevil
+15021,Douglas-fir Twig Weevil
+15022,Zimmerman Pine Moth
+15023,Oak Twig Borers
+15024,Twig Pruner
+15025,Lesser Cornstalk Borer
+15026,Red Oak Borer
+15027,Ponderous Borer
+15028,Eastern Pine Shoot Borer
+15029,Western Pine Shoot Borer
+15030,Eucosma Shoot Borers
+15031,Sugar Maple Borer
+15032,Goes Longhorn Beetles
+15033,Pine Root Collar Weevil
+15034,Warren Root Collar Weevil
+15035,Powderpost Beetles
+15036,Tarnished Plant Bug
+15037,Bark Weevils
+15038,White Pine Barkminer Moth
+15039,Locust Borer
+15040,California Flatheaded Borer
+15041,Flatheaded Fir Borer
+15042,Whitespotted Sawyer
+15043,Redheaded Ash Borer
+15044,Western Ash Borer
+15045,Oberea Shoot Borers
+15046,Eucalyptus Longhorned Borer (P. semipunctata)
+15047,Northern Pine Weevil
+15048,Balsam Bark Weevil
+15049,Monterey Pine Weevil
+15050,Engelmann Spruce Weevil
+15051,Lodgepole Terminal Weevil
+15052,Ambrosia Beetles (Pinhole Borers)
+15053,Cottonwood Borer
+15054,Balsam Shootboring Sawfly
+15055,Pine Gall Weevil
+15056,Ash Borer
+15057,Ash Borer / Lilac Borer
+15058,Carpenterworm
+15059,Maple Shoot Borers
+15060,Western Subterranean Termite
+15061,Coconut Trunk Weevil
+15062,New Guinea Sugarcane Weevil
+15063,European Pine Shoot Moth
+15064,Western Pine Tip Moth
+15065,Nantucket Pine Tip Moth
+15066,Lodgepole Pine Tip Moth
+15067,Southwestern Pine Tip Moth
+15068,Poplar Borer
+15069,Roundheaded Appletree Borer
+15070,Saperda Shoot Borer
+15071,Clearwing Moths
+15072,Dogwood Borer
+15073,Roundheaded Fir Borer
+15074,Western Larch Borer
+15075,Western Cedar Borer
+15076,Douglas-fir Pitch Moth
+15077,Sequoia Pitch Moth
+15078,Black Twig Borer
+15079,Pacific Dampwood Termite
+15080,Subtropical Pine Tip Moth
+15081,Granulate Ambrosia Beetle
+15082,Asian Longhorned Beetle
+15083,Cottonwood Twig Borer
+15084,Southern Pine Sawyer
+15085,Banded Ash Borer
+15086,Sitka Spruce Weevil
+15087,Emerald Ash Borer
+15088,Hemlock Borer
+15089,Formosan Subterranean Termite
+15090,Sirex Woodwasp
+15091,Oregon Fir Sawyer
+15092,Cypress Weevil
+15093,Camphor Shot Borer
+15094,Goldspotted Oak Borer
+15095,European Oak Borer
+15096,Black Stem Borer
+15097,<Icosium Tomentosum>
+15098,Cherry Bark Tortrix
+15099,Eucalyptus Longhorned Borer (P. recurva)
+15100,Japanese Cedar Longhorn Beetle
+15101,Peach Twig Borer
+15102,Soapberry Borer
+15103,Oak Splendor Beetle
+15104,Polyphagous Shot Hole Borer
+15105,Oak Twig Pruner
+15106,Horntails
+15107,Striped Ambrosia Beetle
+15108,Redbay Ambrosia Beetle
+15109,Eastern Poplar Buprestid
+15110,Flatheaded Poplar Borer
+15111,Mexican Goldspotted Oak Borer
+15112,Polyphagus Shothole Borer
+15113,Kuroshio Shothole Borer
+15114,Ambrosia Beetles
+15800,"Other Wood Borer, Known (Code Pending)"
+15900,Unknown Wood Borer
+16000,Seed/Cone/Flower/Fruit Feeders
+16001,Douglas-fir Cone Moth
+16002,Lodgepole Cone Beetle
+16003,Limber Pine Cone Beetle
+16004,Mountain Pine Cone Beetle
+16005,Ponderosa Pine Cone Beetle
+16006,Monterey Pine Cone Beetle
+16007,Red Pine Cone Beetle
+16008,White Pine Cone Beetle
+16009,Black Walnut Curculio
+16010,Douglas-fir Cone Gall Midge
+16011,Douglas-fir Cone Scale Midge
+16012,Acorn/Nut Weevils
+16013,Caroline Fruitfly
+16014,Spruce Bud Midge
+16015,Fir Coneworm
+16016,Southern Pine Coneworm
+16017,Ponderosa Pine Coneworm
+16018,Loblolly Pine Coneworm
+16019,Ponderosa Twig Moth
+16020,<Dioryctria Pseudotsugella>
+16021,Dioryctria Moths
+16022,Lodgepole Cone Moth
+16023,Seed Chalcid
+16024,Slash Pine Flower Thrips
+16025,White Spruce Cone Maggot
+16026,Longleaf Pine Seed Worm or Moth
+16027,Ponderosa Pine Seed Moth
+16028,Spruce Seed Moth
+16029,Boxelder Bug
+16030,Leaffooted Pine Seed Bug
+16031,Western Conifer-Seed Bug
+16032,Hollyhock Thrips
+16033,Subalpine Fir Seed Chalcid
+16034,Spruce Seed Chalcid
+16035,Pine Seed Chalcid
+16036,Fir Seed Chalcid
+16037,Douglas-fir Seed Chalcid
+16038,Yellow Poplar Weevil
+16039,Fruitpiercing Moth
+16040,Roundheaded Cone Borer
+16041,Mango Shoot Caterpillar
+16042,Coneworm (Phycitinae)
+16043,Harvester Ants
+16044,Citrus Flower Moth
+16045,Fir Cone Maggot
+16046,Spruce Cone Maggot
+16047,Shieldbacked Pine Seed Bug
+16048,Coneworm
+16049,Prairie Tent Caterpillar
+16050,Jack Pine Tip Beetle
+16051,Webbing Coneworm
+16052,Blister Coneworm
+16053,Southern Cone Gall Midge
+16054,Seed Bugs
+16055,Spruce Coneworm
+16800,"Other Seed/Cone/Flower/Fruit Feeder, Known (Code Pending)"
+16900,Unknown Seed/Cone/Flower/Fruit Feeder
+17000,Gallmakers
+17001,Birch Budgall Mite
+17002,Eastern Spruce Gall Adelgid
+17003,Cooley Spruce Gall Adelgid
+17004,Horned Oak Gall
+17005,Oak Gall Wasp
+17006,Gall Midge
+17007,Douglas-fir Needle Midge
+17008,Gall Mite
+17009,Spruce Gall Midge
+17010,Hackberry Nipplegall Maker
+17011,Balsam Gall Midge
+17012,Hickory Gall Phylloxera
+17013,Gall Aphid
+17014,Alder Gall Mite
+17015,Psyllid
+17016,Sugarberry Psyllid
+17017,Mountain Apple Psyllid
+17018,Gouty Pitch Midge
+17019,Spider Mites
+17020,Cypress Gall Midges
+17021,Jumping Oak Gall Wasp
+17022,Erythrina Gall Wasp
+17023,Chestnut Gall Wasp
+17024,Crypt Gall Wasp
+17025,Gall Sawfly
+17026,Willow Gall Midge
+17027,Cottonwood Gall Aphid
+17028,Poplar Gall Aphid
+17800,"Other Gallmaker, Known (Code Pending)"
+17900,Unknown Gallmaker
+18000,"Terminal Shoot, Twig, and Root Feeders"
+18001,Lacewings
+18002,Blackbellied Clerid
+18003,Redbellied Clerid
+18004,Red Wood Ant
+18005,Western Yellowjacket
+18006,Pine Tip Moths
+18007,Conifer Swift Moth
+18008,Coconut Rhinoceros Beetle
+18009,Scarab
+18010,June Beetle
+18011,Pales Weevil
+18012,Periodical Cicada
+18013,Northern Pitch Twig Moth
+18014,Ponderosa Pine Tip Moth
+18015,Pitch-Eating Weevil
+18016,Eastern Pine Weevil
+18017,Adana Tip Moth
+18018,Twig Girdler
+18019,Cranberry Girdler
+18020,Pine Reproduction Weevil
+18021,Douglas-fir Twig Weevil
+18022,Oak Twig Borers
+18023,Twig Pruner
+18024,Eastern Pine Shoot Borer
+18025,Western Pine Shoot Borer
+18026,Pine Root Collar Weevil
+18027,Warren Root Collar Weevil
+18028,Engelmann Spruce Weevil
+18029,Lodgepole Terminal Weevil
+18030,European Pine Shoot Moth
+18031,Western Pine Tip Moth
+18032,Nantucket Pine Tip Moth
+18033,Lodgepole Pine Tip Moth
+18034,Southwestern Pine Tip Moth
+18035,Subtropical Pine Tip Moth
+18036,Cottonwood Twig Borer
+18037,Pine Shoot Beetle
+18038,Palmetto Weevil
+18039,Cicadas
+18800,"Other Terminal Shoot, Twig, or Root Feeder, Known (Code Pending)"
+18900,"Unknown Terminal Shoot, Twig, or Root Feeder"
+19000,General Diseases
+20000,Miscellaneous Diseases
+20001,Damping-Off
+20002,Gray Mold
+20003,Cassytha
+20004,Hemlock Fluting
+20005,Virus
+20006,Coconut Cadang-Cadang Viroid
+20007,Western X-Disease Phytoplasma
+20008,Elm Phloem Necrosis
+20009,Tobacco Mosaic Virus
+20010,Tobacco ringspot Virus
+20011,Fire Blight
+20800,"Other Miscellaneous Pathogen, Known (Code Pending)"
+20900,"Other Miscellanous Pathogen, Unknown"
+21000,Root Diseases/Decay
+21001,Armillaria Root Disease
+21002,Yellow Stringy Rot
+21003,Cylindrocladium Root Disease
+21004,Red Belt Conk Complex
+21005,Black Root Rot of Pine
+21006,Fusarium Root Rot
+21007,White Mottled Rot
+21008,Ganoderma Rot of Hardwoods
+21009,Ganoderma Rot of Conifers
+21010,Heterobasidion Root Disease
+21011,Circinatus Root Rot
+21012,Tomentosus Root Rot/False Velvet Top Fungus
+21013,Charcoal Root Rot
+21014,Black Stain Root Disease
+21015,Schweinitzii Root and Butt Rot
+21016,Flame Tree Root Disease
+21017,Laminated Root Rot
+21018,Phytophthora Root Rot
+21019,Littleleaf Disease / Phytophthora Root Rot
+21020,Port-Orford-Cedar Root Disease
+21022,Pythium Root Rot
+21023,Procera Root Disease of Conifers
+21024,Crown Gall
+21025,Borealis Conk
+21026,Yellow Pitted Rot
+21027,Brown Cubical Rot
+21028,Sudden Oak Death
+21029,Rhizina Root Disease
+21030,Yellow Root Rot
+21031,Brown Top Rot
+21032,<Retired>
+21033,Pecky Rot
+21034,Phytophtora Disease of Alder
+21035,Douglas-fir Black Stain Root Disease
+21036,Pine Black Stain Root Disease
+21037,Heterobasidion Root Disease P-type
+21038,Heterobasidion Root Disease S-type
+21039,Heart Rot
+21040,Stem Rot
+21041,Sap Rot
+21042,Gray Brown Sap Rot
+21043,Red Rot
+21044,Indian Paint Fungus
+21045,Fusarium Cortical Stem Rot
+21046,Canker Rot of Oak
+21047,Cinder Conk / Sterile Conk Trunk Rot
+21048,Ash Heart Rot
+21049,Red Ring Rot
+21050,Aspen Trunk Rot
+21051,Stem Decay of Black Walnut
+21052,Brown Trunk Rot / Quinine Conk
+21053,Wet Rot / Cellar Fungus
+21054,Tinder Fungus
+21055,Purple Conk
+21056,Pinyon Black Stain Root Disease
+21057,White Trunk Rot of Conifers / Hartig’s Conk
+21058,False Tinder Fungus
+21059,Robustus Conk
+21060,Yellow Cap Fungus
+21061,Oyster Mushroom
+21062,Redcedar White Ring Rot
+21063,Cedar Brown Pocket Rot
+21064,Sterile Conk of Maple and Beech
+21065,Birch Conk
+21066,Red Ring Rot Canker
+21067,Bacterial Wetwood
+21068,Artist's Conk
+21069,Phytophthora spp.
+21070,Cedar Laminated Butt Rot / Yellow Ring Rot
+21071,Coniophora (arida) Brown Rot
+21072,Rainbow Conk / Turkey Tail
+21073,Blue Stain of Spruce
+21074,<Pholiota spp.>
+21075,Red Belt Conk (with Band)
+21076,Red Belt Conk (without Band)
+21077,Schrenk's Red Belt Conk
+21700,Root or Butt Decay (Indicators Present)
+21800,"Other Root Disease or Decay, Known (Code Pending)"
+21900,Unknown Root Disease or Decay 
+22000,Cankers
+22001,Heart Rot
+22002,Stem Rot
+22003,Sap Rot
+22004,Slime Flux
+22005,Viruses
+22006,Black Knot of Cherry
+22007,Atropellis Canker
+22008,Siberian Elm Canker
+22009,Botryosphaeria Canker
+22010,Black Rot Fungus
+22011,Caliciopsis Canker
+22012,Black Canker of Aspen
+22013,Sycamore Canker
+22023,Chestnut Blight
+22024,Gray Brown Sap Rot
+22025,Cryptosphaeria Canker of Aspen
+22026,Cytospora Canker of Fir
+22027,Red Rot
+22028,Indian Paint Fungus
+22029,Sooty Bark Canker
+22030,Eutypella Canker
+22031,Fusarium Cortical Stem Rot
+22032,Pitch Canker of Pines
+22033,Fusiococcum Canker/Constriction Canker
+22034,Scleroderris Canker
+22035,Amelanchier Rust
+22036,Cedar Apple Rust
+22037,Hypoxylon Canker of Oak
+22038,Hypoxylon Canker of Aspen
+22039,Canker Rot of Oak
+22040,Sterile Conk Trunk Rot of Birch
+22041,European Larch Canker
+22042,Beech Bark Disease Complex
+22043,Nectria Canker
+22044,Ash Heart Rot
+22047,Red Ring Rot
+22048,Aspen Trunk Rot
+22049,Stem Decay of Black Walnut
+22050,Phomopsis Canker of Douglas-Fir
+22051,Phomopsis Canker
+22052,Cypress Canker
+22053,Butternut Canker
+22054,Maple Canker
+22055,Thyronectria Canker
+22056,Citrus Canker
+22057,Cytospora Canker of Aspen
+22058,Dothichiza Poplar Canker
+22059,Red Belt Fungus / Brown Crumbly Rot
+22060,Cytospora Canker of Spruce
+22061,Sooty Bark Canker
+22062,Quinine Fungus / Brown Trunk Rot
+22063,<Coniophora Puteana>
+22064,Tinder Fungus
+22065,Purple Conk
+22066,Pinyon Black Stain Root Disease
+22067,<Phellinus Hartigii>
+22068,False Tinder Fungus
+22069,Robustus Conk
+22070,Yellow Cap Fungus
+22071,Oyster Mushroom
+22072,White Ring Rot
+22073,Hemlock Canker
+22074,Cedar Brown Pocket Rot
+22075,Lachnellula Canker
+22076,Strumella Canker
+22077,Phomopsis Blight
+22078,Nectria Canker of Yellow Poplar
+22079,Sterile Conk of Maple and Beech
+22080,Aleurodiscus Canker
+22081,Birch Conk
+22082,Discocainia Canker
+22083,Red Ring Rot Canker
+22084,Douglas-fir Cankers
+22085,Scleroderris Canker of Western Firs
+22086,Thousand Cankers Disease
+22087,Dothichiza Canker of Poplar
+22088,Willow Scab
+22089,Apple Scab
+22090,Crown Gall
+22091,Sudden Oak Death
+22092,Diplodia Canker
+22093,Eutypella Canker of Maple
+22094,Coral Spot Fungus
+22095,Rough Bark of Alder
+22096,Diplodia Gall
+22097,California Bay Laurel Dieback
+22098,Pistachio Canker
+22099,Aspen Running Canker
+22700,Canker (General)
+22800,"Other Canker Agent, Known (Code Pending)"
+22900,Unknown Canker
+22901,"Unknown Canker, Target"
+22902,"Unknown Canker, Diffuse"
+23000,Parasitic Higher Plants
+23001,Mistletoes
+23002,Parasitic Plants
+23003,Vine Damage
+23005,White Fir Dwarf Mistletoe
+23006,American Dwarf Mistletoe
+23007,Apache Dwarf Mistletoe
+23008,Western Dwarf Mistletoe
+23009,Limber Pine Dwarf Mistletoe
+23010,Pinyon Dwarf Mistletoe
+23011,Douglas-fir Dwarf Mistletoe
+23012,Huachuca Mountain Dwarf Mistletoe
+23013,Larch Dwarf Mistletoe
+23014,Western Spruce Dwarf Mistletoe
+23015,Eastern Dwarf Mistletoe
+23016,Hemlock Dwarf Mistletoe
+23017,Southwestern Dwarf Mistletoe
+23018,Dodder
+23019,Fir Mistletoe
+23020,True Mistletoe
+23021,Red Fir Dwarf Mistletoe
+23022,Juniper Mistletoe
+23023,Dwarf Mistletoe
+23024,Klamath Fir Dwarf Mistletoe
+23025,"Love Vine, Greek Kasytas"
+23800,"Other Parasitic Plant, Known (Code Pending)"
+23900,Unknown Parasitic Plant
+24000,Wilts
+24001,Yellow-Cedar Decline
+24002,Norfolk Island Pine Decline
+24003,Stillwell's Syndrome
+24004,Ash Yellows Disease
+24005,Birch Dieback
+24006,Coconut Cadang-Cadang Viroid
+24007,Pest Complex
+24008,Decline Complex
+24009,Fall Hardwood Defoliator Complex
+24010,Joga Decline
+24011,Larch Decline
+24012,Looper Abiotic Complex
+24013,Maple Decline
+24014,Oak Decline
+24015,Pingelap Disease
+24016,Sprout Dieback
+24017,True Fir Pest Complex
+24018,Western X-Disease Phytoplasma
+24019,Pine Wilt Disease
+24020,Sapstreak Disease
+24021,Oak Wilt
+24022,Dutch Elm Disease
+24023,Bacterial Wetwood
+24024,Mimosa Wilt
+24025,Verticillium Wilt
+24026,Bacterial Leaf Scorch
+24027,Wetwood
+24028,Hemlock Decline
+24029,Pacific Madrone Decline
+24030,Elm Phloem Necrosis Phytoplasma
+24031,Laurel Wilt
+24032,Sudden Aspen Decline
+24033,Koa Wilt
+24034,Rapid 'Ohia Death
+24035,Rapid 'Ohia Death (Huliohia-Slow)
+24036,Rapid 'Ohia Death (Lukuohia-Aggressive)
+24037,Tree-Of-HeavenWilt Vd
+24038,Tree-Of-HeavenWilt Vn
+24800,"Other Wilt, Known (Code Pending)"
+24900,Unknown Wilt
+25000,Foliage and Shoot Diseases
+25001,Blight
+25002,Broom Rust
+25003,Juniper Blights
+25004,Leaf Spots
+25005,Needlecast
+25006,Powdery Mildew
+25007,Tobacco Mosaic Virus
+25008,Tobacco Ringspot Virus
+25009,True Fir Needle Cast
+25010,Sycamore Anthracnose
+25011,Cercospora Blight of Juniper
+25013,Large-Spored Spruce-Labrador Tea Rust
+25014,Ink Spot of Aspen
+25015,Pine Needle Rust
+25016,Anthracnose of Russian Olive
+25017,Coronado Limb Rust
+25018,Leaf Shothole
+25019,Cedar Leaf Blight
+25020,Dogwood Anthracnose
+25021,Mango Scab
+25022,Elytroderma Needle Blight
+25023,Fire Blight
+25024,Walnut Anthracnose
+25025,Anthracnose
+25027,Brown Felt Blight
+25028,Larch Needle Blight
+25029,Hardwood Anthracnose
+25030,Lasiodiplodia Cone Damage
+25031,Lirula Spruce Needle Blight
+25032,Fir Needle Cast
+25033,White Pine Needle Cast
+25034,Lophodermella Needle Cast of Pines
+25035,Lophodermium Needle Cast of Pines
+25036,Marssonina Blight
+25037,Douglas-fir Rust
+25039,Larch Needle Cast
+25040,Dothistroma Needle Blight (D. septosporum)
+25041,Brown Felt Blight of Pines
+25042,Snow Blight
+25043,Swiss Needle Cast
+25044,Phoma Blight
+25045,Phyllosticta Leaf Spot
+25046,Bud Rot
+25047,Ploioderma Needle Cast
+25048,Ash Rust
+25049,Fir and Hemlock Needle Rusts
+25050,Rhabdocline Needle Cast
+25051,Rhizoctonia Needle Blight
+25052,Rhizosphaera Needle Cast
+25053,Rhizopus Rot
+25054,Brown Spot Needle Blight
+25055,Septoria Leaf Spot of Alder
+25056,Septoria Leaf Spot and Canker
+25057,Sirococcus Shoot Blight
+25058,Diplodia Canker
+25059,Leaf Blister of Oak
+25060,Venturia Leaf Blight of Maple
+25061,Aspen Shoot Blight
+25062,Dothistroma Needle Blight
+25063,Yellow-Cedar Shoot Blight
+25064,Broom Rust
+25065,Spruce Needle Rust
+25066,Yellow Cypress Rust
+25067,Spruce Needle Cast
+25068,Hardwood Leaf Rusts
+25070,Hemlock Needle Rust
+25071,Rhizosphaera Needle Disease of Fir
+25072,Sirococcus Shoot Blight
+25073,Cottonwood and Poplar Shoot Blight
+25074,Delphinella Shoot Blight
+25075,Tar Spot
+25076,Birch Leaf Fungus
+25077,Septoria Leaf Spot of Maple
+25078,Eurasian Poplar Leaf Rust
+25079,Ohia/Guava Rust
+25080,Bur Oak Blight
+25081,Bacterial Leaf Scorch
+25082,Leaf Blister of Maple
+25083,Rhizosphaera Needle Cast (spp. Kalkhoffii)
+25084,White Pine Needle Damage
+25085,Dothistroma Needle Blight (D. pini)
+25086,Sirococcus Shoot Blight of Hemlock
+25087,Gemmamyces Bud Blight
+25088,Kabatina Tip Blight of Juniper
+25089,Dichomera Bud Blight
+25090,Aspen Tongue Gall
+25091,Alder Tongue Gall
+25092,Beech Leaf Disease
+25093,Tubakia spp.
+25800,"Other Foliage or Shoot Disease, Known (Code Pending)"
+25900,Unknown Foliage or Shoot Disease
+26000,Rusts
+26001,White Pine Blister Rust
+26002,Western Gall Rust
+26003,Stalactiform Rust
+26004,Comandra Blister Rust
+26005,Pinyon Rust
+26006,Eastern Gall Rust
+26007,Gall Rust of Jack Pine
+26008,Gall Rust of Shortleaf Pine
+26009,Fusiform Rust
+26010,Gall Rust of Virginia Pine
+26011,Bethuli Rust
+26012,Filamentosum Rust
+26013,Southern Cone Rust
+26014,Sweetfern Rust Disease
+26015,Amelanchier Rust
+26016,Cedar Apple Rust
+26017,Large-Spored Spruce-Labrador Tea Rust
+26018,Pine Needle Rust
+26019,Coronado Limb Rust
+26020,Douglas-fir rust
+26021,Ash Rust
+26022,Fir and Hemlock Rusts
+26023,Spruce Needle Rust
+26024,Yellow Cypress Rust
+26025,Leaf Rusts of Hardwoods
+26026,Hemlock Needle Rust
+26027,Eurasian Poplar Leaf Rust
+26028,'Ohia / Guava Rust
+26029,Spruce Broom Rust
+26030,Incense-Cedar Broom Rust
+26031,Juniper Broom Rust
+26032,Yellow Witches-Broom of Fir
+26800,"Other Rust, Known (Code Pending)"
+26900,Unknown Rust
+27000,Broom Rusts
+27001,Spruce Broom Rust
+27002,Incense-cedar Broom Rust
+27003,Juniper Broom Rust
+27004,Yellow Witches-Broom of Fir
+27800,Other Broom Rust (Known)
+27900,Unknown Broom Rust
+28000,Boring Insects - Shoot and Twig
+28001,Pine Shoot Beetle
+28002,Palmetto Weevil
+29000,Declines
+29001,Yellow-Cedar Decline
+29002,Sudden Aspen Decline
+29003,Maple Decline
+29004,Oak Decline
+29005,Subalpine Fir Decline
+30000,Fire
+30001,Wild Fire
+30002,Human Caused Fire
+30003,Crown Fire Damage
+30004,Ground Fire Damage
+41000,Wild Animals
+41001,Bears
+41002,American Beaver
+41003,Big Game
+41004,Mice or Voles
+41005,Pocket Gophers
+41006,Common Porcupine
+41007,Rabbits
+41008,Sapsuckers
+41009,Squirrels
+41010,Woodpeckers
+41011,Moose
+41012,Elk
+41013,Deer
+41014,Feral Pigs
+41015,Mountain Beaver
+41016,Deer or Elk
+41017,Earthworm
+41048,Hares
+41800,"Other Wild Animal, Known (Code Pending)"
+41900,Unknown Wild Animal
+42000,Domestic Animals
+42001,Domesticated Cattle
+42002,Goat
+42003,Horse
+42004,Sheep
+42800,"Other Domestic Animal, Known (Code Pending)"
+42900,Unknown Domestic Animal
+50000,Abiotic Agents
+50001,Air Pollutants
+50002,Chemical
+50003,Drought
+50004,Flooding-High Water
+50005,Frost
+50006,Hail
+50007,Heat
+50008,Lightning
+50009,Nutrient Imbalances
+50010,Radiation
+50011,Snow-Ice
+50013,Wind-Tornado/Hurricane
+50014,Winter Injury
+50015,Avalanche
+50016,Mud-Land Slide
+50017,Volcano
+50018,Other Geologic Event
+50019,Mechanical (Non-Human Caused)
+50020,Saltwater Injury - Flooding / Hurricane
+50021,Freezing Injury to Roots
+50022,Salt Damage
+50800,"Other Abiotic Damage, Known (Code Pending)"
+50900,Unknown Abiotic Damage
+60000,Competition
+70000,Human Activities
+70001,Herbicides
+70003,Imbedded Objects
+70004,Improper Planting Technique
+70005,Land Clearing
+70006,Land Use Conversion
+70007,Logging Damage
+70008,Mechanical
+70009,Pesticides
+70010,Roads
+70011,Soil Compaction
+70012,Suppression
+70013,Vehicle Damage
+70014,Road Salt or Deicers
+70100,Other Human Activities
+71000,Harvest
+71001,Woodland Cutting
+80000,"Multi-Agent ""Complexes"""
+80001,Aspen Defoliation
+80002,Subalpine Fir Mortality Complex
+80003,Five-Needle Pine Decline
+80004,Pinyon Pine Mortality
+80005,Root Disease and Beetle Complex
+80006,Ash Yellows
+80007,Northern Spruce Engraver and Spruce Beetle
+80008,Root Disease or Bears
+80300,"Other Pest Complex, Known (Code Pending)"
+85000,Invasive Plants
+85001,Buffelgrass
+85002,Tree of Heaven
+85003,Crimson Fountaingrass
+85004,<Merremia Peltata>
+85005,Lesser Celandine
+85006,Amur Cork Tree
+85007,Fountain Grass
+85008,Boer Lovegrass
+85009,Natal Grass
+85010,Russian Olive
+85011,Tamarisk
+85012,Gorse
+85013,Norway Maple
+85014,Japanese Chaff Flower
+85015,Mimosa
+85016,Porcelain Berry
+85017,Wild Chervil
+85018,Angelica Tree
+85019,Japanese Barberry
+85020,Poison Hemlock
+85021,Pale Swallow-Wort
+85022,Chinese Yam
+85023,Autumn Olive
+85024,Burning Bush
+85025,Japanese Knotweed
+85026,Glossy Buckthorn
+85027,Goatsrue
+85028,Giant Hogweed
+85029,Japanese Hop
+85030,Bush Honeysuckle
+85031,Purple Loosestrife
+85032,Japanese Stiltgrass
+85033,Silvergrass
+85034,Wavy Leaf Basketgrass
+85035,Mile-A-Minute Weed
+85036,Reed Canary Grass
+85037,Oriental Photinia
+85038,Invasive Phragmites
+85039,Kudzu
+85040,Callery Pear
+85041,Common Buckthorn
+85042,Jet Bead
+85043,Wineberry
+85044,Ravena Grass
+90000,Unknown
+90001,Broken Top
+90002,Dead Top
+90003,Limby / Wolf Tree
+90004,Forked Top
+90005,Forked Below Merch Top
+90006,Crook or Sweep
+90007,"Checks, Bole Cracks"
+90008,Foliage Discoloration
+90009,Mortality
+90010,Dieback
+90011,Open Wound
+90012,Resinosis
+90013,Broken Branches
+91100,Roll-Up/Summary Single Agent
+91101,Western Balsam Bark Beetle Summary
+91102,Mountain Pine Beetle Summary
+91103,Fir Engraver Summary
+91104,Spruce Beetle Summary
+91105,Gypsy Moth Summary
+91106,Leafminer Summary
+91107,Tent Caterpillar Summary
+91108,Douglas-fir Beetle Summary
+91109,Douglas-fir Tussock Moth Summary
+91110,Balsam Woolly Adelgid Summary
+91111,Southern Pine Beetle Summary
+91112,Emerald Ash Borer Summary
+91113,Asian Longhorned Beetle Summary
+91114,Sudden Oak Death Summary
+91115,Spruce Budworm Summary (E & W)
+91116,Sirex Woodwasp Summary
+91117,Jack Pine Budworm Summary
+91118,Hemlock Woolly Adelgid Summary
+91119,Oak Wilt Summary
+91120,Abiotic Damage Summary
+91121,Bear Damage Summary
+91122,Goldenspotted Oak Borer Summary
+91200,Roll-Up/Summary Groups of Agents
+91201,Western Bark Beetles Summary
+91202,Ips Species Summary
+91203,Exotic Invasives Summary
+91204,Hardwood Defoliation Summary
+91205,Softwood Defoliation Summary
+91206,Hardwood Foiar Diseases Summary
+91207,Softwood Foliar Diseases Summary
+91208,Heterobasidion Root Disease Summary
+91209,Black Stain Root Disease Summary
+91300,Roll-Up/Summary Complexes
+91301,Western Five-Needle Pine Mortality Summary
+91302,Oak Species Decline Summary
+91303,Pinyon Pine Mortality Summary
+91304,Subalpine Fir Mortality Summary
+91305,Aspen Decline Summary
+91306,Northern Hardwood Decline Summary
+91307,Yellow Cedar Decline Summary
+91308,Beech Bark Disease Summary
+91309,Laurel Wilt Summary
+99001,Follow-Up 1
+99002,Follow-Up 2
+99003,Follow-Up 3
+99004,Follow-Up 4
+99005,Follow-Up 5
+99006,Follow-Up 6
+99007,Follow-Up 7
+99008,Follow-Up 8
+99009,Follow-Up 9
+99010,Follow-Up 10
+99999,No Data
